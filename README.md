@@ -14,5 +14,5 @@ The gesture volume control project develops a system that allows users to adjust
 4. "GestureVolumeControl.py" is the main module which imports the "HandTrackingModule.py" to track Hand movements and map to the functionality of volume control of the system.
 
 **System Requirement**
-1. To run this in your pc you would need a inbuilt camera.
+1. To run this in your pc you would need an inbuilt camera.
 2. It will only run through Pycharm because it has mediapipe library which is supported by Pycharm only.
